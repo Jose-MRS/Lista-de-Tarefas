@@ -1,0 +1,14 @@
+[
+  {
+    "Tarefa": "Jogar",
+    "Situacao": true
+  },
+  {
+    "Tarefa": "Dormir",
+    "Situacao": false
+  },
+  {
+    "Tarefa": "Estudar",
+    "Situacao": false
+  }
+]
